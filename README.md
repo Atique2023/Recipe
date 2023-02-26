@@ -6,5 +6,4 @@
 ### fruit required
 - **apple**
 - *banana*
-- chikoo
-- 
+
