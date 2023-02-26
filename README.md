@@ -4,3 +4,7 @@
 2. tomato
 3. onion
 ### fruit required
+- apple
+- banana
+- chikoo
+- 
